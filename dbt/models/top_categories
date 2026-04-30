@@ -1,0 +1,6 @@
+SELECT 
+    category,
+    COUNT(*) as total_transactions
+FROM {{ ref('transactions') }}
+GROUP BY category
+ORDER BY total_transactions DESC
