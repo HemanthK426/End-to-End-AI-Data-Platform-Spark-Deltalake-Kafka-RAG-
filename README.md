@@ -540,8 +540,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 <div align="center">
 
-**Built with ❤️ for the data engineering community**
-
 ⭐ Star this repo if it helped you build something awesome!
 
 </div>
